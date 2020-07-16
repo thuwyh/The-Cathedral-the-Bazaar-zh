@@ -6,13 +6,16 @@
 
 ---
 
-英文原版：http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
+英文原版
+- http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
 
-繁体基础版：https://github.com/crazyangelo/Cathedral-and-Bazaar
+繁体基础版
+- https://github.com/crazyangelo/Cathedral-and-Bazaar
 - 基础版基于2002年 8 月 2 日的 3.0 英文版修改于 1999 年 5 月 5 日由謝志昌所翻譯的版本
 
-本版：将繁体字改成简体，并修正了一些词汇表达
-
-最初在我们的公众号【朴素人工智能】上发布，欢迎扫码关注
+本版
+- 由远皓整理
+- 将繁体字改成简体，并修正了一些词汇表达
+- 最初在我们的公众号【朴素人工智能】上发布，欢迎扫码关注
 
 ![](static/qr.jpg)
